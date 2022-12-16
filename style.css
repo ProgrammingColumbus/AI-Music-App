@@ -40,3 +40,9 @@ body{
     font-size: 23px;
     margin: 15px;
 }
+
+canvas{
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #A078FF;
+    border: 5px solid #6f6f6f;
+}
